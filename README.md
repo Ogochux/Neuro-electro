@@ -1,4 +1,4 @@
-# Neuro-electro
+# LTP-inducing matlab code
 First repository 
 fs_Hz = 48000; % sampling at 48 kHz
 ntrains = 3;  % number of trains
